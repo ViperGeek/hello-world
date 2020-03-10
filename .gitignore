@@ -1,5 +1,4 @@
-*.swp*
-*tmp*
-*swp*
+.DS_Store
+*.swp
 *~
 *.bak*
